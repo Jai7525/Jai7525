@@ -49,9 +49,10 @@ Interested in FastAPI, React, RAG, System Design, and real-world software produc
 ### Tools
 
 <p>
-  <img width="48" height="48" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="48" height="48" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img width="48" height="48" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="48" height="48" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-  <img width="48" height="48" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img width="48" src="https://skillicons.dev/icons?i=git" />
+  <img width="48" src="https://skillicons.dev/icons?i=github" />
+  <img width="48" src="https://skillicons.dev/icons?i=vscode" />
+  <img width="48" src="https://skillicons.dev/icons?i=vercel" />
+  <img width="48" src="https://skillicons.dev/icons?i=postman" />
 </p>
+
