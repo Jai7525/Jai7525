@@ -1,10 +1,12 @@
+<p align="center">
+  <img src="banner.png" alt="Jayakumar M GitHub Banner" />
+</p>
+
 ## Hi there, I'm Jayakumar M
 
 Full-Stack Developer building AI-powered applications and scalable backend systems  
 
 Interested in FastAPI, React, RAG, System Design, and real-world software products
-
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - Currently building AI-powered applications and full-stack products
 - Exploring Retrieval-Augmented Generation (RAG), email security, and scalable backend systems
@@ -44,19 +46,12 @@ Interested in FastAPI, React, RAG, System Design, and real-world software produc
 
 - **InboxIQ AI** — AI Email Security & Phishing Detection Platform that analyzes Gmail messages to detect phishing attempts, suspicious links, spoofing indicators, and email threats with risk scoring and AI-powered explanations.
 
-- **Resume Skill Matcher** — Backend-based skill gap analyzer that compares candidate skills with job requirements and identifies matched skills, missing skills, and learning recommendations.
-
-- **Smart Agriculture** — Machine Learning and real-time weather intelligence platform that supports crop recommendation and farming decisions through predictive analytics.
-
----
-
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img width="48" height="48" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="48" height="48" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img width="48" height="48" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img width="48" height="48" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
+  <img width="48" height="48" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 </p>
