@@ -48,4 +48,3 @@ AI Email Security & Phishing Detection Platform that analyzes Gmail messages to 
 <img width="48" height="48" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img width="48" height="48" alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 <img width="48" height="48" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-```
