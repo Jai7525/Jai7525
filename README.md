@@ -533,59 +533,13 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 </table>
 
 ---
-<!-- ========================================================= -->
-<!--                 ENGINEERING PHILOSOPHY                    -->
-<!-- ========================================================= -->
+---
 
 # Engineering Philosophy
 
-> I believe good software is not defined by the number of features it has, but by how maintainable, scalable, and useful it remains over time.
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Principles
-
-- Build products before building features.
-- Design APIs that are simple, scalable, and maintainable.
-- Prefer clean architecture over unnecessary complexity.
-- Use AI to improve developer productivity.
-- Focus on solving real engineering problems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Engineering Mindset
-
-- Product-first thinking
-- Backend-first architecture
-- Clean, modular code
-- Developer experience
-- Continuous learning
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                   GITHUB ANALYTICS                        -->
-<!-- ========================================================= -->
-
-# GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Jai7525&theme=tokyonight&hide_border=true"/>
+> *"Great software isn't measured by the number of features it has, but by how maintainable, scalable, and valuable it remains over time."*
 
 </div>
 
@@ -593,61 +547,84 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true"/>
+| Product Thinking | Engineering Principles |
+|:----------------:|:----------------------:|
+| Build products that solve real problems | Clean, maintainable architecture |
+| Backend-first design | Secure & scalable APIs |
+| Developer experience matters | Continuous improvement |
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                CONTRIBUTION ACTIVITY                      -->
-<!-- ========================================================= -->
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jai7525&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
 
 # Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/Jai7525/Jai7525/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
-<!-- ========================================================= -->
-
 # Current Focus
 
-```yaml
-currently_building:
-  - DevGuide AI
-  - InboxIQ AI
+<div align="center">
 
-currently_learning:
-  - Distributed Systems
-  - System Design
-  - Cloud Architecture
-  - Software Scalability
+| Building | Learning |
+|:---------:|:---------:|
+| **DevGuide AI**<br>Repository Intelligence Platform | **System Design**<br>Scalable Software Architecture |
+| **InboxIQ AI**<br>Email Security Platform | **Cloud & Distributed Systems** |
 
-currently_exploring:
-  - AI Developer Tools
-  - Retrieval-Augmented Generation
-  - Backend Performance Optimization
+</div>
 
-career_interest:
-  - Software Engineering
-  - Backend Engineering
-  - AI Application Development
-```
+<br>
 
-<!-- ========================================================= -->
-<!--                       CONNECT                             -->
-<!-- ========================================================= -->
+<div align="center">
+
+| Exploring | Open To |
+|:----------:|:-------:|
+| AI Developer Tools<br>Retrieval-Augmented Generation<br>Backend Performance | Software Development<br>Backend Engineering<br>AI Application Development |
+
+</div>
+
+---
 
 # Let's Connect
 
 <div align="center">
+
+### Building intelligent software through Backend Engineering and AI Applications.
+
+<br>
 
 <a href="mailto:jayakumar312006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -669,15 +646,29 @@ career_interest:
 
 ---
 
-<!-- ========================================================= -->
-<!--                        FOOTER                             -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-### Building intelligent software products through Backend Engineering and AI Applications.
+## Thanks for Visiting
+
+Software is more than writing code.
+
+It is about solving meaningful problems, creating reliable systems, and continuously improving the developer experience.
 
 <br>
+
+**Always Learning • Always Building • Always Shipping**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
+
+
+
+
+
+
+
+ 
 
 <sub>
 Thanks for visiting my profile. If any of my projects interest you, feel free to explore the repositories or connect with me.
