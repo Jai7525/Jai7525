@@ -726,9 +726,5 @@ I'm currently open to **Software Development**, **Backend Engineering**, **Full-
 
 <br>
 
-*"Every project is an opportunity to learn, improve, and build something meaningful."*
 
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
 
