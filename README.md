@@ -66,41 +66,7 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 ---
 
-# Current Work
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 🤖 DevGuide AI
-
-AI-powered repository intelligence platform that enables developers to understand unfamiliar codebases using semantic search and Retrieval-Augmented Generation.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛡️ InboxIQ AI
-
-AI-powered email security platform for phishing detection, threat intelligence, explainable analysis, and risk assessment.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📋 TaskFlow
-
-Production-ready SaaS workspace featuring secure authentication, scalable REST APIs, analytics, and modern productivity workflows.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Engineering Toolbox
+# Technology Stack
 
 <div align="center">
 
@@ -195,11 +161,13 @@ Production-ready SaaS workspace featuring secure authentication, scalable REST A
 </div>
 
 ---
+
+# Featured Products
+
+---
 <!-- ========================================================= -->
 <!--                     DEVGUIDE AI                           -->
 <!-- ========================================================= -->
-
-# Featured Products
 
 ---
 
@@ -211,19 +179,17 @@ Production-ready SaaS workspace featuring secure authentication, scalable REST A
 
 ### AI-Powered Repository Intelligence Platform
 
-**Repository Understanding • Semantic Search • Retrieval-Augmented Generation**
+**Repository Intelligence • Semantic Search • Retrieval-Augmented Generation**
 
-> Help developers understand unfamiliar codebases by transforming repositories into searchable AI knowledge systems.
+> Transform software repositories into searchable AI knowledge systems that help developers understand unfamiliar codebases through natural language.
 
 <br>
 
-## Overview
+## What It Solves
 
-DevGuide AI is an AI-powered developer platform that analyzes software repositories and enables engineers to explore complex codebases through natural language.
+Understanding an unfamiliar codebase is one of the biggest challenges developers face when joining a new project. Reading hundreds of files, tracing dependencies, and identifying business logic can be slow and time-consuming.
 
-Instead of manually navigating hundreds of files, developers can upload a project, automatically generate semantic embeddings, build a vector knowledge base, and interact with the codebase using Retrieval-Augmented Generation (RAG).
-
-The platform improves onboarding, accelerates code comprehension, and reduces the time required to understand large software systems.
+DevGuide AI transforms software repositories into searchable AI knowledge systems by combining semantic search with Retrieval-Augmented Generation (RAG). Developers can explore codebases using natural language, receive source-grounded answers with citations, and quickly understand project architecture without manually navigating the entire repository.
 
 <br>
 
@@ -271,40 +237,25 @@ The platform improves onboarding, accelerates code comprehension, and reduces th
 
 <br>
 
-## Engineering Snapshot
-
-| Category | Details |
-|:---------|:--------|
-| **Architecture** | Client–Server |
-| **Frontend** | React + Tailwind CSS |
-| **Backend** | FastAPI |
-| **Database** | PostgreSQL |
-| **AI Pipeline** | Retrieval-Augmented Generation |
-| **Vector Store** | FAISS |
-| **LLM** | Gemini AI |
-| **Deployment** | Render |
-
-<br>
-
-## Core Capabilities
+## Key Features
 
 <p>
 
 <img src="https://img.shields.io/badge/Repository_Upload-312E81?style=flat-square"/>
 
+<img src="https://img.shields.io/badge/Automatic_Code_Parsing-3730A3?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/Semantic_Search-4338CA?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/RAG_Chat-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG_Developer_Chat-4F46E5?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Architecture_Insights-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Source_Citations-6366F1?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Source_Citations-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Project_Summaries-7C3AED?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Project_Summaries-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Architecture_Insights-8B5CF6?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Developer_Productivity-9333EA?style=flat-square"/>
 
 </p>
 
@@ -314,7 +265,7 @@ The platform improves onboarding, accelerates code comprehension, and reduces th
 
 <a href="https://github.com/Jai7525/YOUR-DEVGUIDE-REPOSITORY">
 
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -347,17 +298,15 @@ The platform improves onboarding, accelerates code comprehension, and reduces th
 
 **Email Security • Threat Intelligence • Explainable AI**
 
-> Protect Gmail inboxes by detecting phishing attacks, suspicious links, spoofed domains, spam, and email threats using AI-powered security analysis.
+> Detect phishing attacks, malicious links, spoofed domains, and suspicious emails through AI-powered security analysis and explainable threat intelligence.
 
 <br>
 
-## Overview
+## What It Solves
 
-InboxIQ AI is an intelligent email security platform designed to help users identify phishing emails, malicious URLs, spoofed senders, and suspicious messages before they become security risks.
+Email remains one of the most common attack vectors for phishing, spoofing, and malicious links. Most traditional email clients provide limited visibility into why a message is considered dangerous, making it difficult for users to make informed security decisions.
 
-The platform combines Gmail integration, Google Safe Browsing, domain reputation analysis, AI-powered reasoning, and Retrieval-Augmented Generation (RAG) to deliver explainable security reports instead of simple threat labels.
-
-By combining multiple security signals into a unified dashboard, InboxIQ AI helps users understand **why** an email is considered risky and provides actionable threat intelligence.
+InboxIQ AI combines Gmail integration, threat intelligence, Google Safe Browsing, and Retrieval-Augmented Generation (RAG) to analyze incoming emails and generate explainable security reports. Instead of simply classifying emails as safe or unsafe, the platform helps users understand the reasoning behind every security assessment.
 
 <br>
 
@@ -415,25 +364,7 @@ By combining multiple security signals into a unified dashboard, InboxIQ AI help
 
 <br>
 
-## Engineering Snapshot
-
-| Category | Details |
-|:---------|:--------|
-| **Architecture** | Client–Server |
-| **Frontend** | React + Tailwind CSS |
-| **Backend** | FastAPI |
-| **Database** | PostgreSQL + Supabase |
-| **Authentication** | Google OAuth 2.0 |
-| **Email API** | Gmail API |
-| **Threat Intelligence** | Google Safe Browsing |
-| **AI Pipeline** | Retrieval-Augmented Generation |
-| **Vector Store** | FAISS |
-| **LLM** | Gemini AI |
-| **Deployment** | Vercel + Render |
-
-<br>
-
-## Core Capabilities
+## Key Features
 
 <p>
 
@@ -465,7 +396,7 @@ By combining multiple security signals into a unified dashboard, InboxIQ AI help
 
 <a href="https://github.com/Jai7525/InboxIQ-AI">
 
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -484,8 +415,10 @@ By combining multiple security signals into a unified dashboard, InboxIQ AI help
 </table>
 
 ---
+
+---
 <!-- ========================================================= -->
-<!--                        TASKFLOW                           -->
+<!--                         TASKFLOW                          -->
 <!-- ========================================================= -->
 
 <table>
@@ -498,17 +431,15 @@ By combining multiple security signals into a unified dashboard, InboxIQ AI help
 
 **Backend Engineering • REST APIs • Secure Authentication**
 
-> A production-style task management workspace demonstrating scalable backend architecture, secure authentication, modern REST APIs, and full-stack engineering best practices.
+> A modern SaaS workspace that demonstrates scalable backend architecture, secure authentication, and production-ready full-stack engineering practices.
 
 <br>
 
-## Overview
+## What It Solves
 
-TaskFlow is a full-stack productivity platform designed to simulate how modern SaaS applications manage authentication, task workflows, dashboard analytics, and user activity.
+Many task management applications focus only on creating and updating tasks, but real-world SaaS products require much more than basic CRUD functionality. They need secure authentication, scalable APIs, efficient data management, responsive user interfaces, and maintainable software architecture.
 
-Rather than focusing on basic CRUD operations, the project emphasizes scalable backend architecture, modular API development, secure authentication, database modeling, and reusable frontend components.
-
-The application provides an intuitive workspace where users can manage projects through search, filtering, pagination, analytics, activity tracking, and responsive dashboards.
+TaskFlow demonstrates how a production-ready productivity platform can be built using modern backend engineering principles. The application provides secure user authentication, task organization, dashboard analytics, advanced filtering, pagination, and activity tracking while following clean architecture and reusable component design.
 
 <br>
 
@@ -530,7 +461,7 @@ The application provides an intuitive workspace where users can manage projects 
 
 <img src="https://img.shields.io/badge/Activity_Tracking-5B21B6?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Unit_Testing-7E22CE?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Testing-7E22CE?style=flat-square"/>
 
 </p>
 
@@ -550,11 +481,11 @@ The application provides an intuitive workspace where users can manage projects 
 
 <img src="https://img.shields.io/badge/JWT-181717?style=flat-square"/>
 
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Supertest-4F46E5?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
 
@@ -562,46 +493,29 @@ The application provides an intuitive workspace where users can manage projects 
 
 <br>
 
-## Engineering Snapshot
-
-| Category | Details |
-|:---------|:--------|
-| **Architecture** | Client–Server |
-| **Frontend** | React + Tailwind CSS |
-| **Backend** | Express.js |
-| **Database** | MySQL |
-| **Authentication** | JWT |
-| **ORM** | Sequelize |
-| **API Style** | REST APIs |
-| **API Documentation** | Swagger |
-| **Testing** | Jest + Supertest |
-| **Deployment** | Render |
-
-<br>
-
-## Core Capabilities
+## Key Features
 
 <p>
 
-<img src="https://img.shields.io/badge/User_Authentication-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/Secure_Login-312E81?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Task_Management-3730A3?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT_Authentication-3730A3?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/REST_APIs-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Task_Management-4338CA?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Dashboard_Analytics-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_APIs-4F46E5?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/Search_&_Filtering-6366F1?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/Pagination-7C3AED?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Activity_Logs-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Dashboard_Analytics-8B5CF6?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Responsive_UI-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Activity_Logs-A855F7?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/API_Validation-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Documentation-9333EA?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/OpenAPI_Documentation-7E22CE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unit_Testing-7E22CE?style=flat-square"/>
 
 </p>
 
@@ -611,7 +525,7 @@ The application provides an intuitive workspace where users can manage projects 
 
 <a href="https://github.com/Jai7525/taskflow-project-management">
 
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -629,4 +543,5 @@ The application provides an intuitive workspace where users can manage projects 
 </tr>
 </table>
 
+---
 ---
