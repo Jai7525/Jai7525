@@ -4,19 +4,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED&text=JAYAKUMAR%20M&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Software%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%"  src="https://github.com/user-attachments/assets/47edbd79-f5f9-4e24-a432-036e9bd7f831" />
 
 </div>
-
-<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+AI+Applications;Building+Production-Ready+Software;Designing+Scalable+REST+APIs;Developing+Modern+Full-Stack+Products;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=1050&lines=Backend+Engineering+%E2%80%A2+AI+Applications;Building+Production-Ready+Software;Designing+Scalable+Backend+Systems;Developing+Modern+Full-Stack+Products;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -38,8 +34,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Jai7525&label=Profile%20Views&style=flat-square&color=7C3AED)
@@ -54,9 +48,9 @@
 
 I'm a **Software Developer** passionate about building **production-ready software** through **Backend Engineering**, **AI-powered Applications**, and **Modern Full-Stack Development**.
 
-I design scalable backend systems, secure REST APIs, and intelligent software using **Python**, **FastAPI**, **React**, **PostgreSQL**, and **Retrieval-Augmented Generation (RAG)** while following clean architecture and maintainable engineering practices.
+My work focuses on designing scalable backend systems, secure REST APIs, and intelligent software using **Python**, **FastAPI**, **React**, **PostgreSQL**, and **Retrieval-Augmented Generation (RAG)** while following clean architecture and maintainable engineering practices.
 
-Currently seeking opportunities in **Software Development**, **Backend Engineering**, and **AI Application Development**, with a strong interest in building products that solve real-world engineering problems.
+I'm currently seeking opportunities in **Software Development**, **Backend Engineering**, and **AI Application Development**, with a strong interest in building software that solves real engineering problems.
 
 ---
 
@@ -75,35 +69,33 @@ Currently seeking opportunities in **Software Development**, **Backend Engineeri
 # Current Work
 
 <table>
-
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### DevGuide AI
+### 🤖 DevGuide AI
 
-AI-powered codebase understanding platform using semantic search and Retrieval-Augmented Generation for developer productivity.
-
-</td>
-
-<td width="33%">
-
-### InboxIQ AI
-
-AI-powered email security platform for phishing detection, threat intelligence, and explainable security analysis.
+AI-powered repository intelligence platform that enables developers to understand unfamiliar codebases using semantic search and Retrieval-Augmented Generation.
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### TaskFlow
+### 🛡️ InboxIQ AI
 
-Production-ready SaaS workspace featuring secure authentication, scalable REST APIs, and modern productivity workflows.
+AI-powered email security platform for phishing detection, threat intelligence, explainable analysis, and risk assessment.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📋 TaskFlow
+
+Production-ready SaaS workspace featuring secure authentication, scalable REST APIs, analytics, and modern productivity workflows.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -112,19 +104,85 @@ Production-ready SaaS workspace featuring secure authentication, scalable REST A
 
 <div align="center">
 
-| Backend Engineering | Frontend Development | Artificial Intelligence |
-|:-------------------:|:--------------------:|:-----------------------:|
-| <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" /> | <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_AI-7C3AED?style=flat-square"/> |
+<table>
 
-</div>
+<tr>
+<th align="center">Backend Engineering</th>
+<th align="center">Frontend Development</th>
+<th align="center">Artificial Intelligence</th>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_AI-7C3AED?style=flat-square"/>
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
-<div align="center">
+<table>
 
-| Databases | Developer Tools | Deployment |
-|:---------:|:---------------:|:----------:|
-| <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" /><br><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/> | <img src="https://skillicons.dev/icons?i=vercel" /><br><img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/> |
+<tr>
+<th align="center">Databases</th>
+<th align="center">Developer Tools</th>
+<th align="center">Deployment</th>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
