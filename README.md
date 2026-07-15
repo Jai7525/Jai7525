@@ -484,3 +484,149 @@ By combining multiple security signals into a unified dashboard, InboxIQ AI help
 </table>
 
 ---
+<!-- ========================================================= -->
+<!--                        TASKFLOW                           -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
+
+# 📋 TaskFlow
+
+### Production-Ready SaaS Productivity Workspace
+
+**Backend Engineering • REST APIs • Secure Authentication**
+
+> A production-style task management workspace demonstrating scalable backend architecture, secure authentication, modern REST APIs, and full-stack engineering best practices.
+
+<br>
+
+## Overview
+
+TaskFlow is a full-stack productivity platform designed to simulate how modern SaaS applications manage authentication, task workflows, dashboard analytics, and user activity.
+
+Rather than focusing on basic CRUD operations, the project emphasizes scalable backend architecture, modular API development, secure authentication, database modeling, and reusable frontend components.
+
+The application provides an intuitive workspace where users can manage projects through search, filtering, pagination, analytics, activity tracking, and responsive dashboards.
+
+<br>
+
+## Engineering Highlights
+
+<p>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST_API_Design-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Backend_Architecture-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Dashboard_Analytics-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Search_&_Filtering-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Pagination-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Activity_Tracking-5B21B6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Unit_Testing-7E22CE?style=flat-square"/>
+
+</p>
+
+<br>
+
+## Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-181717?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Supertest-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
+
+</p>
+
+<br>
+
+## Engineering Snapshot
+
+| Category | Details |
+|:---------|:--------|
+| **Architecture** | Client–Server |
+| **Frontend** | React + Tailwind CSS |
+| **Backend** | Express.js |
+| **Database** | MySQL |
+| **Authentication** | JWT |
+| **ORM** | Sequelize |
+| **API Style** | REST APIs |
+| **API Documentation** | Swagger |
+| **Testing** | Jest + Supertest |
+| **Deployment** | Render |
+
+<br>
+
+## Core Capabilities
+
+<p>
+
+<img src="https://img.shields.io/badge/User_Authentication-312E81?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Task_Management-3730A3?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Dashboard_Analytics-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Search_&_Filtering-6366F1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Pagination-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Activity_Logs-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Responsive_UI-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/API_Validation-9333EA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/OpenAPI_Documentation-7E22CE?style=flat-square"/>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Jai7525/taskflow-project-management">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://taskflow-project-management.onrender.com">
+
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
