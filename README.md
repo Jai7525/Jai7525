@@ -154,14 +154,6 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 ---
 
-<div align="center">
-
-**Backend Engineering • Artificial Intelligence • Full-Stack Development • Software Architecture**
-
-</div>
-
----
-
 # Featured Products
 
 ---
