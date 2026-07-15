@@ -595,7 +595,9 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 ---
 
-# Current Journey
+---
+
+# Currently
 
 <div align="center">
 
@@ -603,29 +605,33 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Building
+## Currently Building
 
-- **DevGuide AI**
-  - Repository Intelligence Platform
+🧠 **DevGuide AI**  
+AI-powered Repository Intelligence Platform using RAG, semantic search, and vector embeddings.
 
-- **InboxIQ AI**
-  - AI Email Security Platform
+<br>
 
-- Continuously improving production-grade software
+🛡 **InboxIQ AI**  
+AI Email Security Platform for phishing detection, threat intelligence, and explainable security analysis.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### Learning
+## Currently Learning
 
-- System Design
-- Distributed Systems
-- Cloud Architecture
-- Backend Performance
-- Software Scalability
+• System Design
+
+• Distributed Systems
+
+• Cloud Architecture
+
+• Backend Performance
+
+• Software Scalability
 
 </td>
 
@@ -633,28 +639,31 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <tr>
 
-<td>
+<td valign="top">
 
-### Exploring
+## Currently Exploring
 
-- AI Developer Tools
-- Retrieval-Augmented Generation
-- Vector Search
-- Backend Optimization
+• AI Developer Tools
+
+• Retrieval-Augmented Generation
+
+• Vector Search
+
+• Backend Optimization
 
 </td>
 
-<td>
+<td valign="top">
 
-### Goal
+## Career Interests
 
 Backend Engineering
 
 AI Applications
 
-Full-Stack Products
+Software Development
 
-Developer Tools
+Full-Stack Products
 
 </td>
 
@@ -670,9 +679,9 @@ Developer Tools
 
 <div align="center">
 
-### Interested in building meaningful software products.
+### Interested in building software that solves real engineering problems.
 
-Backend Engineering • AI Applications • Full-Stack Development • Open Source
+I'm currently open to **Software Development**, **Backend Engineering**, **Full-Stack Development**, and **AI Application Development** opportunities where I can contribute, learn from experienced engineers, and build production-ready software.
 
 <br>
 
@@ -700,7 +709,20 @@ Backend Engineering • AI Applications • Full-Stack Development • Open Sour
 
 # BUILD • LEARN • SHIP
 
-### Turning ideas into production-ready software through Backend Engineering and AI Applications.
+### Building scalable software through Backend Engineering and AI Applications.
+
+<br>
+
+> *"Every project is an opportunity to solve a real problem, improve engineering skills, and build software that lasts."*
+
+<br>
+
+**Backend Engineering • Artificial Intelligence • Full-Stack Development**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
+
 
 <br>
 
