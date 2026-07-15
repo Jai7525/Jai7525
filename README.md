@@ -156,12 +156,11 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 # Featured Products
 
----
+
 <!-- ========================================================= -->
 <!--                     DEVGUIDE AI                           -->
 <!-- ========================================================= -->
 
----
 
 <table>
 <tr>
@@ -275,7 +274,7 @@ DevGuide AI transforms software repositories into searchable AI knowledge system
 </tr>
 </table>
 
----
+
 <!-- ========================================================= -->
 <!--                      INBOXIQ AI                           -->
 <!-- ========================================================= -->
@@ -406,9 +405,7 @@ InboxIQ AI combines Gmail integration, threat intelligence, Google Safe Browsing
 </tr>
 </table>
 
----
 
----
 <!-- ========================================================= -->
 <!--                         TASKFLOW                          -->
 <!-- ========================================================= -->
@@ -536,4 +533,154 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 </table>
 
 ---
+<!-- ========================================================= -->
+<!--                 ENGINEERING PHILOSOPHY                    -->
+<!-- ========================================================= -->
+
+# Engineering Philosophy
+
+> I believe good software is not defined by the number of features it has, but by how maintainable, scalable, and useful it remains over time.
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Principles
+
+- Build products before building features.
+- Design APIs that are simple, scalable, and maintainable.
+- Prefer clean architecture over unnecessary complexity.
+- Use AI to improve developer productivity.
+- Focus on solving real engineering problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Engineering Mindset
+
+- Product-first thinking
+- Backend-first architecture
+- Clean, modular code
+- Developer experience
+- Continuous learning
+
+</td>
+
+</tr>
+
+</table>
+
 ---
+
+<!-- ========================================================= -->
+<!--                   GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Jai7525&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                CONTRIBUTION ACTIVITY                      -->
+<!-- ========================================================= -->
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                         -->
+<!-- ========================================================= -->
+
+# Current Focus
+
+```yaml
+currently_building:
+  - DevGuide AI
+  - InboxIQ AI
+
+currently_learning:
+  - Distributed Systems
+  - System Design
+  - Cloud Architecture
+  - Software Scalability
+
+currently_exploring:
+  - AI Developer Tools
+  - Retrieval-Augmented Generation
+  - Backend Performance Optimization
+
+career_interest:
+  - Software Engineering
+  - Backend Engineering
+  - AI Application Development
+```
+
+<!-- ========================================================= -->
+<!--                       CONNECT                             -->
+<!-- ========================================================= -->
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:jayakumar312006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jayakumar-m-110b653a3">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jai7525">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jayakumarm-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                        FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### Building intelligent software products through Backend Engineering and AI Applications.
+
+<br>
+
+<sub>
+Thanks for visiting my profile. If any of my projects interest you, feel free to explore the repositories or connect with me.
+</sub>
+
+</div>
