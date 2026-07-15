@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED&text=JAYAKUMAR%20M&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20•%20Backend%20Engineering%20•%20AI%20Applications&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED&text=JAYAKUMAR%20M&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Software%20Developer&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Software;Backend+Engineering+with+Python+%26+FastAPI;AI-Powered+Applications+using+RAG;React+%7C+PostgreSQL+%7C+REST+APIs;Turning+Ideas+into+Scalable+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Backend+Engineering+%7C+AI+Applications;Building+Production-Ready+Software;Designing+Scalable+REST+APIs;Developing+Modern+Full-Stack+Products;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Jai7525&label=Profile%20Views&style=flat-square&color=7C3AED)
-
+&nbsp;
 ![](https://img.shields.io/github/followers/Jai7525?style=flat-square&label=Followers&color=4F46E5)
 
 </div>
@@ -52,20 +52,18 @@
 
 # About
 
-I'm a **Software Developer** focused on building production-ready software through **Backend Engineering**, **AI-powered Applications**, and **Modern Full-Stack Development**.
+I'm a **Software Developer** passionate about building **production-ready software** through **Backend Engineering**, **AI-powered Applications**, and **Modern Full-Stack Development**.
 
-My work centers around designing scalable backend systems, secure REST APIs, and intelligent developer tools using **Python**, **FastAPI**, **React**, **PostgreSQL**, and **Retrieval-Augmented Generation (RAG)**.
+I design scalable backend systems, secure REST APIs, and intelligent software using **Python**, **FastAPI**, **React**, **PostgreSQL**, and **Retrieval-Augmented Generation (RAG)** while following clean architecture and maintainable engineering practices.
 
-I enjoy taking products from architecture and database design to deployment while continuously improving software quality, maintainability, and developer experience.
-
-I'm currently seeking opportunities in **Software Development**, **Backend Engineering**, and **AI Application Development**.
+Currently seeking opportunities in **Software Development**, **Backend Engineering**, and **AI Application Development**, with a strong interest in building products that solve real-world engineering problems.
 
 ---
 
-# Engineering Profile
+# Engineering Expertise
 
-| Focus Area | Technologies |
-|:-----------|:-------------|
+| Domain | Technologies |
+|:-------|:-------------|
 | **Backend Engineering** | FastAPI • Express.js • REST APIs • JWT Authentication |
 | **Artificial Intelligence** | Retrieval-Augmented Generation • FAISS • Gemini AI |
 | **Full-Stack Development** | React • Node.js • PostgreSQL • MySQL |
@@ -76,11 +74,37 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 # Current Work
 
-| Product | Description |
-|:--------|:------------|
-| **DevGuide AI** | AI-powered codebase understanding platform using RAG and semantic search. |
-| **InboxIQ AI** | AI email security platform for phishing detection and threat intelligence. |
-| **TaskFlow** | Production-ready SaaS workspace with JWT authentication and scalable REST APIs. |
+<table>
+
+<tr>
+
+<td width="33%">
+
+### DevGuide AI
+
+AI-powered codebase understanding platform using semantic search and Retrieval-Augmented Generation for developer productivity.
+
+</td>
+
+<td width="33%">
+
+### InboxIQ AI
+
+AI-powered email security platform for phishing detection, threat intelligence, and explainable security analysis.
+
+</td>
+
+<td width="33%">
+
+### TaskFlow
+
+Production-ready SaaS workspace featuring secure authentication, scalable REST APIs, and modern productivity workflows.
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -88,8 +112,8 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 <div align="center">
 
-| Backend | Frontend | Artificial Intelligence |
-|:--------:|:--------:|:-----------------------:|
+| Backend Engineering | Frontend Development | Artificial Intelligence |
+|:-------------------:|:--------------------:|:-----------------------:|
 | <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" /> | <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/> <img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_AI-7C3AED?style=flat-square"/> |
 
 </div>
@@ -108,9 +132,7 @@ I'm currently seeking opportunities in **Software Development**, **Backend Engin
 
 <div align="center">
 
-### Primary Areas of Interest
-
-**Backend Engineering** • **Artificial Intelligence** • **Full-Stack Development** • **Software Architecture** • **REST APIs** • **Database Systems**
+**Backend Engineering • Artificial Intelligence • Full-Stack Development • Software Architecture**
 
 </div>
 
