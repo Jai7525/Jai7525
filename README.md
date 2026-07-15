@@ -288,14 +288,25 @@ The platform improves onboarding, accelerates code comprehension, and reduces th
 
 ## Core Capabilities
 
-- Upload and analyze large software repositories
-- Automatic repository parsing and indexing
-- Intelligent semantic search across source code
-- Context-aware developer chat using RAG
-- Source-grounded AI responses with citations
-- Automatic project summaries and architecture insights
-- Multi-file code understanding
-- Production-style REST API architecture
+<p>
+
+<img src="https://img.shields.io/badge/Repository_Upload-312E81?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Semantic_Search-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG_Chat-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Architecture_Insights-6366F1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Source_Citations-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Project_Summaries-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Developer_Productivity-9333EA?style=flat-square"/>
+
+</p>
 
 <br>
 
