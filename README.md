@@ -333,3 +333,154 @@ The platform improves onboarding, accelerates code comprehension, and reduces th
 </table>
 
 ---
+<!-- ========================================================= -->
+<!--                      INBOXIQ AI                           -->
+<!-- ========================================================= -->
+
+<table>
+<tr>
+<td width="100%">
+
+# 🛡️ InboxIQ AI
+
+### AI-Powered Email Security Platform
+
+**Email Security • Threat Intelligence • Explainable AI**
+
+> Protect Gmail inboxes by detecting phishing attacks, suspicious links, spoofed domains, spam, and email threats using AI-powered security analysis.
+
+<br>
+
+## Overview
+
+InboxIQ AI is an intelligent email security platform designed to help users identify phishing emails, malicious URLs, spoofed senders, and suspicious messages before they become security risks.
+
+The platform combines Gmail integration, Google Safe Browsing, domain reputation analysis, AI-powered reasoning, and Retrieval-Augmented Generation (RAG) to deliver explainable security reports instead of simple threat labels.
+
+By combining multiple security signals into a unified dashboard, InboxIQ AI helps users understand **why** an email is considered risky and provides actionable threat intelligence.
+
+<br>
+
+## Engineering Highlights
+
+<p>
+
+<img src="https://img.shields.io/badge/Gmail_Integration-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Google_OAuth-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Phishing_Detection-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Threat_Intelligence-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Risk_Scoring-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Explainable_AI-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG_Pipeline-5B21B6?style=flat-square"/>
+
+</p>
+
+<br>
+
+## Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Safe_Browsing-34A853?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
+
+</p>
+
+<br>
+
+## Engineering Snapshot
+
+| Category | Details |
+|:---------|:--------|
+| **Architecture** | Client–Server |
+| **Frontend** | React + Tailwind CSS |
+| **Backend** | FastAPI |
+| **Database** | PostgreSQL + Supabase |
+| **Authentication** | Google OAuth 2.0 |
+| **Email API** | Gmail API |
+| **Threat Intelligence** | Google Safe Browsing |
+| **AI Pipeline** | Retrieval-Augmented Generation |
+| **Vector Store** | FAISS |
+| **LLM** | Gemini AI |
+| **Deployment** | Vercel + Render |
+
+<br>
+
+## Core Capabilities
+
+<p>
+
+<img src="https://img.shields.io/badge/Gmail_Synchronization-312E81?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Phishing_Detection-3730A3?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Suspicious_URL_Analysis-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Domain_Reputation-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Threat_Intelligence-6366F1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Risk_Scoring-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI_Threat_Explanation-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Security_Dashboard-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Email_Analytics-9333EA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Domain_Insights-7E22CE?style=flat-square"/>
+
+</p>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Jai7525/InboxIQ-AI">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://inbox-iq-ai.vercel.app">
+
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
