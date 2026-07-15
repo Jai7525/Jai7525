@@ -533,7 +533,6 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 </table>
 
 ---
----
 
 # Engineering Philosophy
 
