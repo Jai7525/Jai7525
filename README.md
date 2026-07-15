@@ -538,7 +538,7 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-> *"Great software isn't measured by the number of features it has, but by how maintainable, scalable, and valuable it remains over time."*
+> *"I believe great software is built through thoughtful architecture, maintainable code, and continuous iteration—not by adding more features."*
 
 </div>
 
@@ -546,11 +546,12 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-| Product Thinking | Engineering Principles |
-|:----------------:|:----------------------:|
-| Build products that solve real problems | Clean, maintainable architecture |
-| Backend-first design | Secure & scalable APIs |
-| Developer experience matters | Continuous improvement |
+| Product Thinking | Engineering |
+|:----------------:|:-----------:|
+| Solve real-world problems | Clean Architecture |
+| Backend-first design | Secure REST APIs |
+| Developer experience | Scalable Systems |
+| Continuous learning | Long-term maintainability |
 
 </div>
 
@@ -560,9 +561,9 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -570,7 +571,7 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jai7525&theme=tokyonight&hide_border=true&background=00000000"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jai7525&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -580,7 +581,7 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -594,34 +595,84 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 ---
 
-# Current Focus
+# Current Journey
 
 <div align="center">
 
-| Building | Learning |
-|:---------:|:---------:|
-| **DevGuide AI**<br>Repository Intelligence Platform | **System Design**<br>Scalable Software Architecture |
-| **InboxIQ AI**<br>Email Security Platform | **Cloud & Distributed Systems** |
+<table>
 
-</div>
+<tr>
 
-<br>
+<td width="50%">
 
-<div align="center">
+### Building
 
-| Exploring | Open To |
-|:----------:|:-------:|
-| AI Developer Tools<br>Retrieval-Augmented Generation<br>Backend Performance | Software Development<br>Backend Engineering<br>AI Application Development |
+- **DevGuide AI**
+  - Repository Intelligence Platform
+
+- **InboxIQ AI**
+  - AI Email Security Platform
+
+- Continuously improving production-grade software
+
+</td>
+
+<td width="50%">
+
+### Learning
+
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Backend Performance
+- Software Scalability
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Exploring
+
+- AI Developer Tools
+- Retrieval-Augmented Generation
+- Vector Search
+- Backend Optimization
+
+</td>
+
+<td>
+
+### Goal
+
+Backend Engineering
+
+AI Applications
+
+Full-Stack Products
+
+Developer Tools
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# Let's Connect
+# Open To Collaborate
 
 <div align="center">
 
-### Building intelligent software through Backend Engineering and AI Applications.
+### Interested in building meaningful software products.
+
+Backend Engineering • AI Applications • Full-Stack Development • Open Source
 
 <br>
 
@@ -647,30 +698,15 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 <div align="center">
 
-## Thanks for Visiting
+# BUILD • LEARN • SHIP
 
-Software is more than writing code.
-
-It is about solving meaningful problems, creating reliable systems, and continuously improving the developer experience.
+### Turning ideas into production-ready software through Backend Engineering and AI Applications.
 
 <br>
 
-**Always Learning • Always Building • Always Shipping**
+*"Every project is an opportunity to learn, improve, and build something meaningful."*
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
 
-
-
-
-
-
-
- 
-
-<sub>
-Thanks for visiting my profile. If any of my projects interest you, feel free to explore the repositories or connect with me.
-</sub>
-
-</div>
