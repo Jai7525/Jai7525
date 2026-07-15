@@ -195,3 +195,130 @@ Production-ready SaaS workspace featuring secure authentication, scalable REST A
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--                     DEVGUIDE AI                           -->
+<!-- ========================================================= -->
+
+# Featured Products
+
+---
+
+<table>
+<tr>
+<td width="100%">
+
+# 🤖 DevGuide AI
+
+### AI-Powered Repository Intelligence Platform
+
+**Repository Understanding • Semantic Search • Retrieval-Augmented Generation**
+
+> Help developers understand unfamiliar codebases by transforming repositories into searchable AI knowledge systems.
+
+<br>
+
+## Overview
+
+DevGuide AI is an AI-powered developer platform that analyzes software repositories and enables engineers to explore complex codebases through natural language.
+
+Instead of manually navigating hundreds of files, developers can upload a project, automatically generate semantic embeddings, build a vector knowledge base, and interact with the codebase using Retrieval-Augmented Generation (RAG).
+
+The platform improves onboarding, accelerates code comprehension, and reduces the time required to understand large software systems.
+
+<br>
+
+## Engineering Highlights
+
+<p>
+
+<img src="https://img.shields.io/badge/Repository_Analysis-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Semantic_Search-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG_Pipeline-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Vector_Search-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Developer_Chat-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Source_Citations-A855F7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Repository_Indexing-5B21B6?style=flat-square"/>
+
+</p>
+
+<br>
+
+## Technology Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=white"/>
+
+</p>
+
+<br>
+
+## Engineering Snapshot
+
+| Category | Details |
+|:---------|:--------|
+| **Architecture** | Client–Server |
+| **Frontend** | React + Tailwind CSS |
+| **Backend** | FastAPI |
+| **Database** | PostgreSQL |
+| **AI Pipeline** | Retrieval-Augmented Generation |
+| **Vector Store** | FAISS |
+| **LLM** | Gemini AI |
+| **Deployment** | Render |
+
+<br>
+
+## Core Capabilities
+
+- Upload and analyze large software repositories
+- Automatic repository parsing and indexing
+- Intelligent semantic search across source code
+- Context-aware developer chat using RAG
+- Source-grounded AI responses with citations
+- Automatic project summaries and architecture insights
+- Multi-file code understanding
+- Production-style REST API architecture
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Jai7525/YOUR-DEVGUIDE-REPOSITORY">
+
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://YOUR-DEVGUIDE-DEMO.vercel.app">
+
+<img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
