@@ -594,47 +594,37 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 </div>
 
 ---
-# Currently
+---
 
-### Building
+# Current Journey
 
-🧠 **DevGuide AI**  
-AI-powered repository intelligence platform that helps developers understand large codebases using Retrieval-Augmented Generation (RAG), semantic search, and vector embeddings.
+### 🚀 Building
 
-<br>
+> **DevGuide AI**  
+> AI-powered Repository Intelligence Platform
 
-🛡️ **InboxIQ AI**  
-AI-powered email security platform focused on phishing detection, threat intelligence, explainable security analysis, and secure email workflows.
+> **InboxIQ AI**  
+> Intelligent Email Security Platform
 
 ---
 
-### Learning
+### 📚 Learning
 
-- System Design
-- Distributed Systems
-- Cloud Architecture
-- Backend Performance
-- Software Scalability
+System Design • Distributed Systems • Cloud Architecture • Software Scalability
 
 ---
 
-### Exploring
+### 🔬 Exploring
 
-- AI Developer Tools
-- Retrieval-Augmented Generation (RAG)
-- Vector Search & Embeddings
-- Backend Performance Optimization
-- Production Software Architecture
+AI Developer Tools • Vector Search • Backend Performance
 
 ---
 
-### Career Interests
+### 🎯 Looking For
 
-- Backend Engineering
-- AI Application Development
-- Software Development
-- Full-Stack Product Engineering
-- Developer Tools
+Backend Engineering • AI Applications • Full-Stack Development
+
+---
 ---
 # Open To Collaborate
 
