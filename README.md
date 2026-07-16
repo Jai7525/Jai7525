@@ -597,78 +597,34 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 # Current Journey
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🚀 Building
 
-**DevGuide AI**
+> **DevGuide AI**  
+> AI-powered Repository Intelligence Platform
 
-Repository Intelligence Platform powered by Retrieval-Augmented Generation.
+> **InboxIQ AI**  
+> Intelligent Email Security Platform
 
-<br>
-
-**InboxIQ AI**
-
-AI-powered Email Security and Threat Intelligence Platform.
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 📚 Learning
 
-• System Design
+System Design • Distributed Systems • Cloud Architecture • Software Scalability
 
-• Distributed Systems
-
-• Cloud Architecture
-
-• Software Scalability
-
-• Backend Performance
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+---
 
 ### 🔬 Exploring
 
-• AI Developer Tools
-
-• Retrieval-Augmented Generation
-
-• Vector Search
-
-• Developer Experience
-
-</td>
-
-<td valign="top">
-
-### 🎯 Career Direction
-
-Backend Engineering
-
-AI Applications
-
-Full-Stack Products
-
-Developer Tools
-
-</td>
-
-</tr>
-
-</table>
+AI Developer Tools • Vector Search • Backend Performance
 
 ---
+
+### 🎯 Looking For
+
+Backend Engineering • AI Applications • Full-Stack Development
+
+---
+
 # Open To Collaborate
 
 <div align="center">
