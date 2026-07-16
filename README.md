@@ -554,48 +554,45 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 | Continuous learning | Long-term maintainability |
 
 </div>
-
 ---
 
-# GitHub Analytics
+# Building Journey
 
-<div align="center">
+### 2025
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jai7525&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai7525&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+**Personal Portfolio**  
+Designed and developed a modern developer portfolio focused on performance, animations, and responsive user experience.
 
 <br>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jai7525&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai7525&theme=tokyo-night&hide_border=true"/>
-
-</div>
+**InboxIQ AI**  
+Built an AI-powered email security platform for phishing detection, threat intelligence, and explainable security analysis.
 
 <br>
 
-<div align="center">
+**TaskFlow**  
+Developed a production-ready SaaS task management application with secure authentication and scalable REST APIs.
 
-<img width="95%" src="https://raw.githubusercontent.com/Jai7525/Jai7525/output/github-contribution-grid-snake-dark.svg"/>
+<br>
 
-</div>
+**DevGuide AI**  
+Building an AI-powered repository intelligence platform that enables developers to understand large codebases using Retrieval-Augmented Generation (RAG).
+
+<br>
+
+### Next
+
+**AI-Native Software Architecture Platform** *(Research & Final Year Project)*
+
 ---
+
+> **I believe the best way to learn software engineering is by continuously building products that solve increasingly complex real-world problems.**
+
+---
+
 # Current Focus
 
-### 🚀 Building
+### ⚙ Building
 
 - **DevGuide AI**
   - Repository Intelligence Platform powered by Retrieval-Augmented Generation (RAG).
@@ -614,22 +611,24 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 
 ---
 
-### 🎯 Looking For
+### ◈ Looking For
 
 Backend Engineering • AI Applications • Full-Stack Products
 ---
-# Open To Collaborate
+---
+
+# Let's Build Something Meaningful
 
 <div align="center">
 
-### Interested in building software that solves real engineering problems.
+I'm always interested in collaborating on **Backend Engineering**, **AI Applications**, **Developer Tools**, and **Modern Full-Stack Products**.
 
-I'm currently open to **Software Development**, **Backend Engineering**, **Full-Stack Development**, and **AI Application Development** opportunities where I can contribute, learn from experienced engineers, and build production-ready software.
+Whether it's an internship, an open-source project, or a product idea, I'd be happy to connect.
 
 <br>
 
 <a href="mailto:jayakumar312006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jayakumar-m-110b653a3">
@@ -650,24 +649,12 @@ I'm currently open to **Software Development**, **Backend Engineering**, **Full-
 
 <div align="center">
 
-# BUILD • LEARN • SHIP
+### Turning ideas into production-ready software.
 
-### Building scalable software through Backend Engineering and AI Applications.
-
-<br>
-
-> *"Every project is an opportunity to solve a real problem, improve engineering skills, and build software that lasts."*
+**Python • FastAPI • React • PostgreSQL • AI**
 
 <br>
 
-**Backend Engineering • Artificial Intelligence • Full-Stack Development**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:1E1B4B,30:312E81,60:4F46E5,100:7C3AED"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1E1B4B,25:312E81,50:4338CA,75:6366F1,100:7C3AED"/>
-
-
-<br>
-
-
-
