@@ -592,41 +592,32 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 <img width="95%" src="https://raw.githubusercontent.com/Jai7525/Jai7525/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
 ---
-
 # Current Focus
 
-### ⚙ Building
+### 🚀 Building
 
-> **DevGuide AI**  
-> Repository Intelligence Platform powered by Retrieval-Augmented Generation (RAG).
+- **DevGuide AI**
+  - Repository Intelligence Platform powered by Retrieval-Augmented Generation (RAG).
 
-<br>
-
-> **InboxIQ AI**  
-> AI-powered Email Threat Intelligence and Security Platform.
+- **InboxIQ AI**
+  - AI-powered Email Threat Intelligence Platform.
 
 ---
 
-### ⚡ Learning
+### ⚡ Improving
 
-System Design • Distributed Systems • Cloud-native Architecture • Performance Engineering
-
----
-
-### ◈ Exploring
-
-AI Developer Tools • Vector Search • Backend Optimization • Developer Experience
+- Backend Architecture
+- Distributed Systems
+- API Performance
+- Developer Experience
 
 ---
 
-### ◎ Career Direction
+### 🎯 Looking For
 
-Backend Engineering • AI Applications • Full-Stack Products • Developer Tools
-
+Backend Engineering • AI Applications • Full-Stack Products
 ---
-
 # Open To Collaborate
 
 <div align="center">
