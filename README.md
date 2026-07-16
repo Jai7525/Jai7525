@@ -554,7 +554,6 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 | Continuous learning | Long-term maintainability |
 
 </div>
----
 
 # Building Journey
 
