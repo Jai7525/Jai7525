@@ -594,87 +594,48 @@ TaskFlow demonstrates how a production-ready productivity platform can be built 
 </div>
 
 ---
-
----
-
 # Currently
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Currently Building
+### Building
 
 🧠 **DevGuide AI**  
-AI-powered Repository Intelligence Platform using RAG, semantic search, and vector embeddings.
+AI-powered repository intelligence platform that helps developers understand large codebases using Retrieval-Augmented Generation (RAG), semantic search, and vector embeddings.
 
 <br>
 
-🛡 **InboxIQ AI**  
-AI Email Security Platform for phishing detection, threat intelligence, and explainable security analysis.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Currently Learning
-
-• System Design
-
-• Distributed Systems
-
-• Cloud Architecture
-
-• Backend Performance
-
-• Software Scalability
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-## Currently Exploring
-
-• AI Developer Tools
-
-• Retrieval-Augmented Generation
-
-• Vector Search
-
-• Backend Optimization
-
-</td>
-
-<td valign="top">
-
-## Career Interests
-
-Backend Engineering
-
-AI Applications
-
-Software Development
-
-Full-Stack Products
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+🛡️ **InboxIQ AI**  
+AI-powered email security platform focused on phishing detection, threat intelligence, explainable security analysis, and secure email workflows.
 
 ---
 
+### Learning
+
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Backend Performance
+- Software Scalability
+
+---
+
+### Exploring
+
+- AI Developer Tools
+- Retrieval-Augmented Generation (RAG)
+- Vector Search & Embeddings
+- Backend Performance Optimization
+- Production Software Architecture
+
+---
+
+### Career Interests
+
+- Backend Engineering
+- AI Application Development
+- Software Development
+- Full-Stack Product Engineering
+- Developer Tools
+---
 # Open To Collaborate
 
 <div align="center">
